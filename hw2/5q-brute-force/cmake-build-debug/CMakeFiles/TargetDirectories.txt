@@ -1,0 +1,3 @@
+C:/Users/artna/VU_PS/1k_2s/ADS/hw2/5q-brute-force/cmake-build-debug/CMakeFiles/5q_brute_force.dir
+C:/Users/artna/VU_PS/1k_2s/ADS/hw2/5q-brute-force/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artna/VU_PS/1k_2s/ADS/hw2/5q-brute-force/cmake-build-debug/CMakeFiles/rebuild_cache.dir
