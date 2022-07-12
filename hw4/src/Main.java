@@ -1,4 +1,7 @@
 /*
+
+Aleksandra Kondratjeva
+
 There is a list of roads between cities. Every road has an owner and the price. You can have a 50% discount on a road of a given owner.
 Find the cheapest route from one city to another, determine the case when the route doesn't exist.
 (Graph implementation based on adjacency list using Dijkstra's algorithm)

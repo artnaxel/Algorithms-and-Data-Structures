@@ -1,4 +1,7 @@
 /* VIP BANK SIMULATION
+
+Aleksandra Kondratjeva
+
 Problem:
 Make a simulation and comparison of two banks.
 One with usual cashiers that serve VIP clients out of queue, and one with both usual and

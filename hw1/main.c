@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "functions.h"
-//
+/*
+
+Aleksandra Kondratjeva
+
+*/
 int main(){
     int a = 20, b = 40, c = 90;
 
